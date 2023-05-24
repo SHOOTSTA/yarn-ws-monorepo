@@ -1,5 +1,5 @@
 const PROJECT = {
-  planet: "Jupiter"
+  planet: "Earth"
 };
 
 export function getPlanetInfo() {
